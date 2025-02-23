@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sanajy and I'm a Full Stack Developer, from India</p>
+<p align="left">My name is Sanjay and I'm a Full Stack Developer, from India</p>
 
 ###
 
