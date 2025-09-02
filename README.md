@@ -1,6 +1,10 @@
 <h1 align="center">🚀 Sanjay Kumar | AI/ML Enthusiast & Full-Stack Developer</h1>
 <p align="center">AI/ML Innovator | MLOps Enthusiast | Problem Solver | Tech Leader</p>
-
+</p>
+<h3 align="center">👀 Total Profile Visits: 200+ 👀</h3>
+<p align="center">
+<img src="https://count.getloli.com/get/@sanjaykumar079?theme=booru-vp"> <br/>
+</p>
 ---
 
 ## 💡 About Me
@@ -77,7 +81,7 @@
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sanjaykumar079/">
+<a href="https://www.linkedin.com/in/sanjay-kumar-2a0578290/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/sanjaykumar079">
