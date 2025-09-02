@@ -1,11 +1,6 @@
 <h1 align="center">🚀 Sanjay Kumar | AI/ML Enthusiast & Full-Stack Developer</h1>
 <p align="center">AI/ML Innovator | MLOps Enthusiast | Problem Solver | Tech Leader</p>
 
-<h3 align="center">👀 Total Profile Visits: 293+ 👀</h3>
-<p align="center">
-<img src="https://count.getloli.com/get/@sanjaykumar079?theme=booru-vp"> <br/>
-</p>
-
 ---
 
 ## 💡 About Me
