@@ -1,101 +1,59 @@
-<h1 align="left">Hey 👋 I'm Sanjay!</h1>
+<h1 align="center">🚀 M Sanjay Kumar | AI & ML Innovator</h1>  
+<p align="center">AI Enthusiast | Full Stack Developer | Open Source Contributor | Tech Speaker</p>  
 
-###
-
-<p align="left">
-🚀 Full Stack Developer | 📊 Aspiring ML Engineer | 🇮🇳 India  
+<h3 align="center">👀 Total Profile Visits 👀</h3>
+<p align="center">
+	<img src="https://count.getloli.com/get/@sanjaykumar079?theme=booru-vp"> <br/>
 </p>
+---
 
-###
+## 💡 About Me  
+- 🎓 **3rd Year AI & ML Student** @ NRI Institute of Technology  
+- 🏆 **TechTrek Hackathon Winner** | Infosys Best Project Awardee  
+- 🎤 **Vice President @ Innovista** | Conducted **10+ impactful workshops**  
+- 📚 **Published Research**: *Real-Time Water Level Monitoring & Alert System*  
+- 💻 Passionate about **AI, Open-Source, and Developer Advocacy**  
 
-<h2 align="left">About Me</h2>
+---
 
-###
+## 🔥 Projects & Contributions  
+🚀 **Building AI & ML models, Web & Mobile Apps, and Video Processing Tools**  
 
-- 🛠️ Crafting software solutions for the past **9 months**  
-- 🎓 Currently diving deep into **Machine Learning**  
-- 🎯 Goal: Become an **ML Engineer**  
-- 🤖 Building AI-powered apps and **exploring API integrations**  
-- 🛠️ Working on a **timetable generator** and a **hospital readmission predictive model**  
-- 🎲 Fun fact: I sometimes forget what I coded last night 😅  
+| 🏆 **Featured Projects** | 🚀 **Tech Stack** |  
+|----------------|------------|  
+| 🤖 AI-Based Virtual Library | LangChain, OpenAI, Streamlit |  
+| 🌍 Geolocation-Based Attendance | MERN Stack, Google Maps API |  
+| 📜 English-to-Telugu Translator (94% Accuracy) | Gemini 2, NLP |  
+| 🔍 Insta Spam Detection | Python, ML, Flask |  
 
-###
+---
 
-<h2 align="left">Tech Stack</h2>
+## 📊 GitHub Stats  
 
-###
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=JPKrishna28&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" /> 
+</div>  
 
-<div align="left">
-  
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  
-<!-- Django -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  
-<!-- Flask -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+---
 
-<!-- REST API -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+## 🌐 Connect & Collaborate  
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaswanthperla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JPKrishna28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://perlajaswanthkrishna.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>  
 
-<!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-
-<!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-<!-- Bootstrap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
-
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-
-</div>
-
-###
-
-<h2 align="left">Machine Learning Tools</h2>
-
-###
-
-<div align="left">
-
-<!-- Pandas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-
-<!-- NumPy -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-
-<!-- Scikit-Learn -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" />
-
-<!-- TensorFlow -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-
-<!-- PyTorch -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-
-<!-- Jupyter Notebook -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
-
-</div>
-
-###
-
-<h2 align="left">Current Projects</h2>
-
-- 🔧 **Timetable Generator**: Auto-assigns slots based on teacher availability & constraints  
-- 🏥 **Hospital Readmission Predictor**: ML model for predicting patient readmissions  
-- 🤖 **ChatGPT Clone**: API-powered chatbot in Python  
-
-###
-
-
-🔥 Always up for collaborating on exciting projects! Let’s build something awesome together. 🚀  
+---
+<p align="center">
+  <a href="https://github.com/JPKrishna28">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPKrishna28&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
+## ⚡ Fun Fact  
+I turn **coffee into code** & ideas into reality ☕💻  
