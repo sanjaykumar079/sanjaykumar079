@@ -20,10 +20,8 @@ I build LLM-powered applications, machine learning systems, and the backend serv
 | Project | Stack | Summary |
 |---------|-------|---------|
 | [**LegalGPT**](https://github.com/sanjaykumar079/LEGAL-GPT-FINAL) | FastAPI, React, Ollama, ChromaDB | RAG-based legal document Q&A with a retrieval threshold to prevent ungrounded answers, JWT auth, and a 61-question evaluation set (accuracy, F1, ROUGE-L) |
-| **FruitScan** | TensorFlow/Keras, EfficientNetV2B0 | Fruit maturity detection with fine-tuning, class weighting, confidence gating, Grad-CAM explainability, and duplicate-leakage screening |
 | **Network Security System** | Python, Scikit-learn, FastAPI, AWS | ML-based network anomaly detection with real-time alerting |
 | **IoT Temperature Monitoring** | React, Node.js, ESP32, Supabase | Real-time monitoring dashboard across 50 devices with secure auth and optimized APIs |
-| **AI Health Chatbot** | FastAPI, Gemini API | Conversational health assistant with NLP intent detection |
 | **AR Art Gallery** | Three.js, WebXR, Flask | AI-assisted AR/VR gallery experience (NRIIT National Hackathon, 3rd place) |
 
 ## Experience
