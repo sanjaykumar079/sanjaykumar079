@@ -1,119 +1,44 @@
-<h1 align="center">🚀 Sanjay Kumar | AI/ML Enthusiast & Full-Stack Developer</h1>
-<p align="center">AI/ML Innovator | MLOps Enthusiast | Problem Solver | Tech Leader</p>
+# Sanjay Kumar Mullangi
 
----
+AI/ML Engineer | Final-year B.Tech, Artificial Intelligence & Machine Learning (Expected 2027)
 
-## 💡 About Me
-- 🎓 **B.Tech AI & ML Student** @ NRI Institute of Technology (Expected 2027)
-- 🏆 **3rd Place - NRIIT National Hackathon** | AI-powered Virtual Art Gallery
-- 👨‍💼 **President @ INNOVISTA CLUB** | Mentoring & Conducting Coding Workshops
-- 🌐 **Campus Ambassador @ Internshala** | Building Communication & Leadership Skills
-- 💼 **Python Developer Intern** @ EduSkills Foundation
-- 🏅 **National Kabaddi Champion** (CBSE Level)
+I build LLM-powered applications, machine learning systems, and the backend services that put them into production. My focus is RAG, NLP, deep learning, and small language models.
 
----
+## Skills
 
-## 🛠️ Tech Stack & Skills
+| Area | Technologies |
+|------|--------------|
+| Languages | Python, SQL, JavaScript |
+| AI / ML | TensorFlow/Keras, Scikit-learn, Pandas, NumPy, NLP, RAG, Embeddings |
+| LLM Tooling | Ollama, ChromaDB, Sentence-Transformers, Gemini API |
+| Backend | FastAPI, Django, Flask, REST APIs, JWT, Node.js |
+| Frontend | React |
+| Cloud & Tools | AWS, Docker, Supabase, Git, GitHub |
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Featured Projects
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+| Project | Stack | Summary |
+|---------|-------|---------|
+| [**LegalGPT**](https://github.com/sanjaykumar079/LEGAL-GPT-FINAL) | FastAPI, React, Ollama, ChromaDB | RAG-based legal document Q&A with a retrieval threshold to prevent ungrounded answers, JWT auth, and a 61-question evaluation set (accuracy, F1, ROUGE-L) |
+| **FruitScan** | TensorFlow/Keras, EfficientNetV2B0 | Fruit maturity detection with fine-tuning, class weighting, confidence gating, Grad-CAM explainability, and duplicate-leakage screening |
+| **Network Security System** | Python, Scikit-learn, FastAPI, AWS | ML-based network anomaly detection with real-time alerting |
+| **IoT Temperature Monitoring** | React, Node.js, ESP32, Supabase | Real-time monitoring dashboard across 50 devices with secure auth and optimized APIs |
+| **AI Health Chatbot** | FastAPI, Gemini API | Conversational health assistant with NLP intent detection |
+| **AR Art Gallery** | Three.js, WebXR, Flask | AI-assisted AR/VR gallery experience (NRIIT National Hackathon, 3rd place) |
 
-### Web Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+## Experience
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Full Stack Intern**, Infinostech Pvt Limited (Sep 2025 - Feb 2026)
+- **Python Developer Intern**, EduSkills Foundation (Jan 2025 - Feb 2025)
 
----
+## Recognition
 
-## 🔥 Featured Projects
+- NASA Space Apps Challenge Winner (2025)
+- Top 5, IIIT Sri City Hackathon
+- 3rd Place, NRIIT National Hackathon
+- President, INNOVISTA Club
+- Co-Founder, InfinosTech; shortlisted Top 35 of 1700+ startups at the International Startup Foundation Junicorns Cohort 2
 
-| 🏆 **Project** | 🚀 **Tech Stack** | 🌟 **Highlights** |
-|----------------|------------|----------------|
-| 🛡️ **Network Security System** | Python, MLOps, AWS | Real-time anomaly detection & automated alerts |
-| 🎨 **AR Art Gallery with AI Storyteller** | Three.js, WebXR, Flask, AI | Immersive AR/VR experience with intelligent narratives |
-| 📊 **Customer Churn Prediction** | Deep Learning, Flask, AWS | Real-time predictions with scalable deployment |
-| 🎬 **IMDB Clone** | Django REST Framework, JWT | Full-featured REST API with authentication & testing |
-| 🏥 **AI Health Chatbot** | Gemini API, FastAPI | HIPAA-conscious healthcare assistant |
+## Contact
 
----
-
-## 🏆 Achievements & Recognition
-
-- 🥉 **3rd Place** - NRIIT National Hackathon (AI-powered Virtual Art Gallery)
-- 🏅 **Top 5** - IIIT Sri City Hackathon (AI-driven Interview Assistant)
-- 🚀 **Participant** - The Great Bengaluru Hackathon (AI Innovation Showcase)
-- 🥇 **National Kabaddi Champion** (CBSE Level, Class 12)
-- 👑 **President** - INNOVISTA CLUB (Reorganized and revitalized the club)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjaykumar079&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar079&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar079&theme=radical" alt="GitHub Streak" width="60%" />
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sanjay-kumar-2a0578290/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/sanjaykumar079">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:sanju.aiml93@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<a href="https://github.com/sanjaykumar079">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumar079&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
-</a>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🔬 **Deep Learning & NLP Research** - Exploring advanced AI techniques
-- ⚙️ **MLOps Pipeline Development** - Building scalable ML systems
-- 🚀 **Open Source Contributions** - Contributing to AI/ML community projects
-- 📚 **Mentoring & Teaching** - Conducting workshops and guiding juniors
-
----
-
-## ⚡ Fun Fact
-I transform **ideas into intelligent solutions** and believe in the power of **AI to solve real-world problems** 🤖✨
-
----
-
-<p align="center">
-<i>⭐️ From <a href="https://github.com/sanjaykumar079">Sanjay Kumar</a> | Always learning, always building! 🚀</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/sanjay-kumar-2a0578290/) | [Email](mailto:sanjaymullangi@gmail.com)
